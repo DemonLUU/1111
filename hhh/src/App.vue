@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div>hjkfdjkshjfsd</div>
     <div id="nav">
       <div>three</div>
       <div>11111</div>
